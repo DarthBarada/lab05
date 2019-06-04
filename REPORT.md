@@ -18,7 +18,7 @@ $ open https://github.com/google/googletest
 
 Настройка окружения
 ```ShellSession
-$ export GITHUB_USERNAME=<имя_пользователя>
+$ export GITHUB_USERNAME=DarthBarada
 $ alias gsed=sed # for *-nix system # Синоним команды gsed
 ```
 Подготовка окружения
